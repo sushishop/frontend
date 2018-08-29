@@ -1,0 +1,45 @@
+{
+  "name": "front_shop",
+  "version": "0.0.1",
+  "description": "work in kmitl",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/azaz0133/Frontend_SE.git"
+  },
+  "author": "Anirut Kamchai (azaz0133)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/azaz0133/Frontend_SE/issues"
+  },
+  "homepage": "https://gitlab.com/azaz0133/Frontend_SE#README",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "7.2.3",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "eslint": "4.1.1",
+    "eslint-config-react-app": "^2.1.0",
+    "eslint-plugin-flowtype": "2.34.1",
+    "eslint-plugin-import": "2.6.0",
+    "eslint-plugin-jsx-a11y": "5.1.1",
+    "eslint-plugin-react": "7.1.0",
+    "postcss-import": "^12.0.0",
+    "postcss-loader": "^3.0.0",
+    "react-hot-loader": "^4.3.5",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.6"
+  },
+  "dependencies": {
+    "eslint-loader": "^2.1.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
