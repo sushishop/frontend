@@ -6,7 +6,7 @@ class App extends React.Component {
 			<div>
                 Hello World cccc
 			</div>
-		)
+		)ksdsdjaadskj
 	}
 }
 export default App
