@@ -4,9 +4,9 @@ class App extends React.Component {
 	render() {
 		return(
 			<div>
-                Hello World cccc
+s                Hello World
 			</div>
-		)ksdsdjaadskj
+		)
 	}
 }
 export default App
